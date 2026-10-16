@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local datasets (download separately, see README)
+/data/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
